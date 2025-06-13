@@ -37,6 +37,14 @@
   },
   "overrides": {
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "@react-three/fiber": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    },
+    "@react-three/drei": {
+      "react": "^19.1.0",
+      "react-dom": "^19.1.0"
+    }
   }
 }
